@@ -2987,3 +2987,33 @@
 2023-05-17T07:03:23.335622Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
 2023-05-17T07:03:23.335649Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 16828
 2023-05-17T07:03:23.362943Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-05-17T12:25:51.689057Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-05-17T12:25:51.689229Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-05-17T12:25:51.689322Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 2624
+2023-05-17T12:25:51.910226Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-05-17T12:26:03.298752Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2023-05-17T12:26:04.138219Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 196, name 'laravel_study/migrations', file '.\laravel_study\migrations.ibd' is missing!
+2023-05-17T12:26:04.141646Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 198, name 'laravel_study/users', file '.\laravel_study\users.ibd' is missing!
+2023-05-17T12:26:04.144296Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 199, name 'laravel_study/courses', file '.\laravel_study\courses.ibd' is missing!
+2023-05-17T12:26:04.146115Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 201, name 'laravel_study/students', file '.\laravel_study\students.ibd' is missing!
+2023-05-17T12:26:04.147943Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 206, name 'nha san xuat/ten_nha_may', file '.\nha@0020san@0020xuat\ten_nha_may.ibd' is missing!
+2023-05-17T12:26:04.149940Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 215, name 'nha san xuat/cart', file '.\nha@0020san@0020xuat\cart.ibd' is missing!
+2023-05-17T12:26:04.151737Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 217, name 'nha san xuat/nha_san_xuat', file '.\nha@0020san@0020xuat\nha_san_xuat.ibd' is missing!
+2023-05-17T12:26:04.153706Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 218, name 'nha san xuat/nguoi_dung', file '.\nha@0020san@0020xuat\nguoi_dung.ibd' is missing!
+2023-05-17T12:26:04.164684Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 616, name 'laravel_master/migrations', file '.\laravel_master\migrations.ibd' is missing!
+2023-05-17T12:26:04.166652Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 617, name 'laravel_master/companies', file '.\laravel_master\companies.ibd' is missing!
+2023-05-17T12:26:04.168594Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 618, name 'laravel_master/languages', file '.\laravel_master\languages.ibd' is missing!
+2023-05-17T12:26:04.170517Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 621, name 'laravel_master/personal_access_tokens', file '.\laravel_master\personal_access_tokens.ibd' is missing!
+2023-05-17T12:26:04.173180Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 622, name 'laravel_master/configs', file '.\laravel_master\configs.ibd' is missing!
+2023-05-17T12:26:04.176287Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 626, name 'laravel_master/posts', file '.\laravel_master\posts.ibd' is missing!
+2023-05-17T12:26:04.178097Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 629, name 'laravel_master/object_language', file '.\laravel_master\object_language.ibd' is missing!
+2023-05-17T12:26:04.180124Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 632, name 'laravel_master/files', file '.\laravel_master\files.ibd' is missing!
+2023-05-17T12:26:04.181904Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 634, name 'laravel_master/reports', file '.\laravel_master\reports.ibd' is missing!
+2023-05-17T12:26:04.183720Z 1 [Warning] [MY-012351] [InnoDB] Tablespace 637, name 'laravel_master/users', file '.\laravel_master\users.ibd' is missing!
+2023-05-17T12:26:04.897523Z 0 [System] [MY-010229] [Server] Starting XA crash recovery...
+2023-05-17T12:26:04.904846Z 0 [System] [MY-010232] [Server] XA crash recovery finished.
+2023-05-17T12:26:05.199907Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\laragon\bin\mysql\mysql-8.0.30-winx64\lib\private\.
+2023-05-17T12:26:05.401090Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2023-05-17T12:26:05.402245Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2023-05-17T12:26:05.588135Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2023-05-17T12:26:05.588426Z 0 [System] [MY-010931] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld: ready for connections. Version: '8.0.30'  socket: ''  port: 3306  MySQL Community Server - GPL.
