@@ -3021,3 +3021,7 @@
 2023-05-18T06:57:02.642829Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
 2023-05-18T06:57:02.642870Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 12100
 2023-05-18T06:57:02.794885Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2023-05-19T01:07:51.741402Z 0 [Warning] [MY-010097] [Server] Insecure configuration for --secure-file-priv: Current value does not restrict location of generated files. Consider setting it to a valid, non-empty path.
+2023-05-19T01:07:51.741451Z 0 [Warning] [MY-010918] [Server] 'default_authentication_plugin' is deprecated and will be removed in a future release. Please use authentication_policy instead.
+2023-05-19T01:07:51.741477Z 0 [System] [MY-010116] [Server] C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld (mysqld 8.0.30) starting as process 11708
+2023-05-19T01:07:51.768134Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
